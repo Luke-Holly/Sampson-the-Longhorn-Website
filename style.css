@@ -30,6 +30,5 @@ layout: style
 .slideInLeft {
   -webkit-animation-name: slideInLeft;
   animation-name: slideInLeft;
-  animation-duration: 1000ms;
-  animation-delay: 100ms;
+}
 }
