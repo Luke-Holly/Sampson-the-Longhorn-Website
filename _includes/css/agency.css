@@ -864,6 +864,9 @@ body {
 }
 
 
+header {
+  background-position:65% 35% !important;
+}
 
 .intro-text {
   margin-top:350px;
