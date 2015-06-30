@@ -867,10 +867,7 @@ body {
 
 .intro-text {
   margin-top:350px;
-  animation-name:slideInLeft;
-  animation-duration:1s;
-  animation-delay: 100ms;
-}
+  }
 @-webkit-keyframes slideInLeft {
   0% {
     -webkit-transform: translate3d(-100%, 0, 0);
