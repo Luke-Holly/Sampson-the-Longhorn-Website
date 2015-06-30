@@ -866,9 +866,9 @@ body {
 
 
 .intro-text {
-  margin-top:550px;
+  margin-top:350px;
   animation-name:slideInLeft;
-  animation-duation:1s;
+  animation-duration:1s;
   animation-delay: 100ms;
 }
 @-webkit-keyframes slideInLeft {
