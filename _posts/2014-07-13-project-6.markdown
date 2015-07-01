@@ -1,15 +1,12 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: Fairs and Markets
+subtitle: Appearances
 layout: default
 modal-id: 6
-date: 2014-07-15
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+date: 2014
+img: woman.jpg
+thumbnail: woman.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: 2014
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
----
+description: Sampson loves to appear at fairs, markets, and other events. He always attracts crowds and keeps people coming back week after week.
