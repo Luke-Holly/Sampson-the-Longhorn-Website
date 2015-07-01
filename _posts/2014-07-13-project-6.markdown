@@ -3,10 +3,11 @@ title: Fairs and Markets
 subtitle: Appearances
 layout: default
 modal-id: 6
-date: 2014
+date: 5-10-2014
 img: woman.jpg
 thumbnail: woman.jpg
 alt: image-alt
-project-date: 2014
+project-date: 5-10-2014
+client: Himself
 category: Web Development
 description: Sampson loves to appear at fairs, markets, and other events. He always attracts crowds and keeps people coming back week after week.
