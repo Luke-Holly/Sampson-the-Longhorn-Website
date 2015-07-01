@@ -11,3 +11,4 @@ project-date: 5-10-2014
 client: Himself
 category: Web Development
 description: Sampson loves to appear at fairs, markets, and other events. He always attracts crowds and keeps people coming back week after week.
+---
