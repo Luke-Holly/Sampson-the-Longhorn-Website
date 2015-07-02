@@ -1,15 +1,15 @@
 ---
-title: Startup Framework
-subtitle: Website Design
+title: Commercials
+subtitle: Promos and Business
 layout: default
 modal-id: 5
-date: 2014-07-14
+date: 2013-2015
 img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
+thumbnail: commercial.jpg
 alt: image-alt
-project-date: April 2014
+project-date: 2013-2015
 client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+category: Business
+description: Sampson has appeared in multiple television commercials and would be a great get for yours. He's easygoing, can ride indoors and out, and loves the camera.
 
 ---

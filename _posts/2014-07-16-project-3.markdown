@@ -1,15 +1,15 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Work with kids
+subtitle: Appearances
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+date: 2013-2015
+img: kids.jpg
+thumbnail: kids.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: 2013-2015
+client: Anyone
+category: Appearances
+description: Sampson is great with kids and loves to be ridden by any of them! Kids are best because they don't put any stress on his back, and he is gentle and kind to all visitors. He'd be great at any party or event.
 
 ---
