@@ -11,5 +11,4 @@ project-date: 2013-2015
 client: Anyone
 category: Appearances
 description: There's nothing Sampson loves more than getting out on the trail. He hits it with verve and vigor, and loves to see the world. A smooth rider, he makes for wonderful trail rides.
-
 ---

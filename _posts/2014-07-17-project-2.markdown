@@ -11,5 +11,4 @@ project-date: 2013-2015
 client: Anyone
 category: Events
 description: Sampson, and other longhorns, are great at Western reenactments, being gentle riders who are easy to control. Longhorns like him are famous at the Fort Worth Stockyards.
-
 ---

@@ -11,5 +11,4 @@ project-date: 2013-2015
 client: Anyone
 category: Appearances
 description: Sampson is great with kids and loves to be ridden by any of them! Kids are best because they don't put any stress on his back, and he is gentle and kind to all visitors. He'd be great at any party or event.
-
 ---
