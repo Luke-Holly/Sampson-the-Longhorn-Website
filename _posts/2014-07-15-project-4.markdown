@@ -4,8 +4,8 @@ subtitle: Appearances
 layout: default
 modal-id: 4
 date: 2013-2015
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+img: trailride.jpg
+thumbnail: trailride.jpg
 alt: image-alt
 project-date: 2013-2015
 client: Anyone

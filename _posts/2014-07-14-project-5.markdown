@@ -4,11 +4,11 @@ subtitle: Promos and Business
 layout: default
 modal-id: 5
 date: 2013-2015
-img: startup-framework.png
+img: commercial.jpg
 thumbnail: commercial.jpg
 alt: image-alt
 project-date: 2013-2015
-client: Start Bootstrap
+client: Anyone
 category: Business
 description: Sampson has appeared in multiple television commercials and would be a great get for yours. He's easygoing, can ride indoors and out, and loves the camera.
 
