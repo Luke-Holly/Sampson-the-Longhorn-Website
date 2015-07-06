@@ -38,3 +38,10 @@ layout: style
   animation-name: slideInLeft;
 }
 }
+@@font-face {
+  font-family:western;
+  src:url(westy.ttf);
+}
+.intro-text {
+  font-family: western;
+}
