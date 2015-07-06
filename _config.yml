@@ -1,9 +1,9 @@
 url: https://luke-holly.github.io
-baseurl: /Sampson-the-Longhorn-Website
+baseurl: /Sampson-the-Longhorn-Website/
 
 # Site settings
 title: Sampson the Longhorn
-email: your-email@domain.com
+email: lp1holl@aol.com
 description: "Sampson the Longhorn is a trained, performing Texas Longhorn steer who performs throughout the Desert Southwest. This gentle beast is kind and loves to be ridden and have his picture taken."
 
 # Color settings (hex-codes without the leading hash-tag)
@@ -18,18 +18,24 @@ people:
   pic: 1
   position: Booking Manager
   social:
+    title: facebook
+    url: http://facebook.com/sampsonthelonghorn
 
 
 - name: Izzy Ordonez
   pic: 2
   position: Handler
   social:
+    title: facebook
+    url: http://facebook.com/sampsonthelonghorn
 
 
 - name: Paul Hollomon
   pic: 3
   position: Owner
   social:
+    title: facebook
+    url: http://facebook.com/sampsonthelonghorn
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
