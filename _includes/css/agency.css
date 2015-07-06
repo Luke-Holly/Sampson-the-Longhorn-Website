@@ -902,3 +902,11 @@ header {
   animation-name: slideInLeft;
 }
 }
+
+@font-face {
+  font-family:western;
+  src:url(westy.ttf);
+}
+.intro-lead-in {
+  font-family: western;
+}
