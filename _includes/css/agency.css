@@ -904,9 +904,9 @@ header {
 }
 
 @font-face {
-  font-family:western;
-  src:url(westy.ttf);
+  font-family: western;
+  src: url(http://luke-holly.github.io/Sampson-the-Longhorn-Website/westy.ttf);
 }
 .intro-lead-in {
-  font-family: western;
+  font-family: western !important;
 }
