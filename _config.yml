@@ -18,24 +18,20 @@ people:
   pic: 1
   position: Booking Manager
   social:
-    title: facebook
-    url: http://facebook.com/sampsonthelonghorn
 
 
 - name: Izzy Ordonez
   pic: 2
   position: Handler
   social:
-    title: facebook
-    url: http://facebook.com/sampsonthelonghorn
+
 
 
 - name: Paul Hollomon
   pic: 3
   position: Owner
   social:
-    title: facebook
-    url: http://facebook.com/sampsonthelonghorn
+    
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
