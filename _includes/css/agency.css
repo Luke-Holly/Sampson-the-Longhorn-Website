@@ -3,6 +3,7 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
+@import url(http://fonts.googleapis.com/css?family=Alfa+Slab+One|Vast+Shadow|Holtwood+One+SC|Bree+Serif);
 
 body {
     overflow-x: hidden;
@@ -909,5 +910,5 @@ header {
   src: url('http://luke-holly.github.io/Sampson-the-Longhorn-Website/westy.woff');
 }
 .intro-lead-in {
-  font-family: western !important;
+  font-family: 'western', 'Alfa Slab One', sans-serif; !important;
 }
