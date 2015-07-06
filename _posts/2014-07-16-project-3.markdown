@@ -3,11 +3,11 @@ title: Work with kids
 subtitle: Appearances
 layout: default
 modal-id: 3
-date: 2013-2015
+date: 05-12-2013
 img: kids.jpg
 thumbnail: kids.jpg
 alt: image-alt
-project-date: 2013-2015
+project-date: 05-12-2013ß
 client: Anyone
 category: Appearances
 description: Sampson is great with kids and loves to be ridden by any of them! Kids are best because they don't put any stress on his back, and he is gentle and kind to all visitors. He'd be great at any party or event.
