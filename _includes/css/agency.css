@@ -924,3 +924,6 @@ header {
 .intro-heading {
     text-shadow: 3px 3px 2px #212121;
 }
+.page-scroll {
+  text-shadow: 1px 1px 1px #212121;
+}
