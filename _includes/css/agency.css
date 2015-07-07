@@ -911,6 +911,6 @@ header {
 .intro-lead-in, .section-heading {
   font-family: "western", "Alfa Slab One", sans-serif !important;
 }
-.navbar-brand, .service-heading, .timeline-heading, .team-member > h4 {
+.navbar-brand, .service-heading, .timeline-heading, .team-member > h4, .portfolio-caption > h4, .page-scroll, .intro-heading {
   font-family: "Vast Shadow", "Kaushan Script", cursive, sans-serif !important;
 }
