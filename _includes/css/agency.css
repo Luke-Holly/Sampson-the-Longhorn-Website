@@ -910,6 +910,7 @@ header {
 }
 .intro-lead-in, .section-heading {
   font-family: "western", "Alfa Slab One", sans-serif !important;
+  text-shadow: 3px 3px 2px #212121;
 }
 .navbar-brand, .service-heading, .timeline-heading > h4, .team-member > h4, .portfolio-caption > h4, .page-scroll, .intro-heading, h4 {
   font-family: "Vast Shadow", "Kaushan Script", cursive, sans-serif !important;
@@ -919,5 +920,5 @@ header {
 }
 .intro-lead-in {
   font-size:50px !important;
-  text-shadow: 2px 2px 1px #212121;
+
 }
