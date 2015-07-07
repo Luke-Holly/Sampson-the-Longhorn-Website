@@ -908,7 +908,7 @@ header {
   src: url('http://luke-holly.github.io/Sampson-the-Longhorn-Website/westy.ttf');
   src: url('http://luke-holly.github.io/Sampson-the-Longhorn-Website/westy.woff');
 }
-.intro-lead-in {
+.intro-lead-in, .section-heading {
   font-family: "western", "Alfa Slab One", sans-serif !important;
 }
 .navbar-brand {
