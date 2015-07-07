@@ -917,3 +917,6 @@ header {
 .page-scroll {
   font-size: 13px;
 }
+.intro-lead-in {
+  font-size:50px !important;
+}
