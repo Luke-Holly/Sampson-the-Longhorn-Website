@@ -919,4 +919,5 @@ header {
 }
 .intro-lead-in {
   font-size:50px !important;
+  text-shadow: 2px 2px 1px #212121;
 }
