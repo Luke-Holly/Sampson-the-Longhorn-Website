@@ -928,3 +928,8 @@ header {
 .page-scroll {
   text-shadow: 1px 1px 1px #212121;
 }
+@media all and (max-width:760px) {
+  header {
+    background-image:url("img/header-bg.jpg") !important;
+  }
+}
