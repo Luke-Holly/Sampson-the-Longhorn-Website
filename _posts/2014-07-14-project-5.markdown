@@ -10,5 +10,5 @@ alt: image-alt
 project-date: 05-12-2013
 client: Anyone
 category: Business
-description: <iframe width="560" height="315" src="https://www.youtube.com/embed/fM2y503de0c" frameborder="0" allowfullscreen></iframe> Sampson has appeared in multiple television commercials and would be a great get for yours. He's easygoing, can ride indoors and out, and loves the camera.
+description: <iframe width="560" height="315" src="https://www.youtube.com/embed/fM2y503de0c" frameborder="0" allowfullscreen></iframe> &nbsp; Sampson has appeared in multiple television commercials and would be a great get for yours. He's easygoing, can ride indoors and out, and loves the camera.
 ---
