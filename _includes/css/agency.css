@@ -980,11 +980,11 @@ header {
   z-index: 100;
 }
 @font-face {
-  font-family: 'strong, serif';
-  src: url('http://luke-holly.github.io/Sampson-the-Longhorn-Website/strongarm-webfont.eot');
-  src: url('http://luke-holly.github.io/Sampson-the-Longhorn-Website/strongarm-webfont.svg');
-  src: url('http://luke-holly.github.io/Sampson-the-Longhorn-Website/strongarm-webfont.ttf');
-  src: url('http://luke-holly.github.io/Sampson-the-Longhorn-Website/strongarm-webfont.woff');
+  font-family: 'strong';
+  src: url('http://luke-holly.github.io/Sampson-the-Longhorn-Website/strongarm-webfont.eot') format('embedded-opentype'),
+  src: url('http://luke-holly.github.io/Sampson-the-Longhorn-Website/strongarm-webfont.svg') format('svg'),
+  src: url('http://luke-holly.github.io/Sampson-the-Longhorn-Website/strongarm-webfont.ttf') format('truetype'),
+  src: url('http://luke-holly.github.io/Sampson-the-Longhorn-Website/strongarm-webfont.woff') format('woff'),
   src: url('http://luke-holly.github.io/Sampson-the-Longhorn-Website/strongarm.otf');
 }
 #muscle {
