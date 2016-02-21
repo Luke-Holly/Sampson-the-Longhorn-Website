@@ -317,7 +317,7 @@ header .intro-text .intro-heading {
         font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
         font-size: 60px;
         font-weight: 700;
-        line-height: 75px;
+        line-height: 60px;
     }
 }
 
@@ -923,6 +923,8 @@ header {
   text-shadow: 3px 3px 2px #212121;
 }
 .intro-heading {
+}
+.intro-text {
   -webkit-text-stroke: 1px black;
   text-shadow:
   3px 3px 0 #000,
