@@ -870,7 +870,7 @@ header {
 }
 
 .intro-text {
-  margin-top:350px;
+  margin-top:275px;
   }
 @-webkit-keyframes slideInLeft {
   0% {
@@ -948,8 +948,8 @@ header {
   position: absolute;
   top:40px;
   left:20px;
-  height:200px;
-  width:200px;
+  height:300px;
+  width:300px;
 }
 .stamp:after {
   color: #d00;
