@@ -4,7 +4,7 @@ baseurl: /Sampson-the-Longhorn-Website
 # Site settings
 title: Sampson the Longhorn
 email: lp1holl@aol.com
-description: "Sampson the Longhorn is a trained, performing Texas Longhorn steer who performs throughout the Desert Southwest. This gentle beast is kind and loves to be ridden and have his picture taken."
+description: "Sampson the Longhorn is a trained performing animal who does commercials, business openings, and photoshoots throughout the U.S."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -13,24 +13,6 @@ color:
   secondary-dark: 333
 
 # Team names, titles and social links
-people:
-- name: Violet Heubner
-  pic: 1
-  position: Booking Manager
-  social:
-
-
-- name: Izzy Ordonez
-  pic: 2
-  position: Handler
-  social:
-
-
-
-- name: Paul Hollomon
-  pic: 3
-  position: Owner
-  social:
 
 
 
