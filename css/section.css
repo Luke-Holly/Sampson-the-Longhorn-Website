@@ -141,5 +141,5 @@
   display: block;
 }
 .section {
-  background:url('https://www.luke-holly.github.io/Sampson-the-Longhorn-Website/img/tileable_wood_texture.png') repeat-x repeat-y fixed center; 
+  background-image: url("http://luke-holly.github.io/Sampson-the-Longhorn-Website/img/bedge_grunge_@2x.png");
 }

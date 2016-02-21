@@ -933,3 +933,40 @@ header {
     background-image:url("img/header-bg.jpg") !important;
   }
 }
+.stamp-container {
+  max-width: 500px;
+  margin: auto;
+  -webkit-backface-visibility: hidden;
+}
+.stamp {
+  position: absolute;
+  top:20px;
+  left:20px;
+}
+.stamp:after {
+  border: solid 0.2em #d00;
+  color: #d00;
+  background-image: url("http://luke-holly.github.io/Sampson-the-Longhorn-Website/img/USDA-badge.png");
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 1;
+  opacity: 0;
+  position: absolute;
+  width: 200px;
+  text-align: center;
+  padding: 7px 10px;
+  margin: 0 auto;
+  top: 10%;
+  left: 10%;
+  text-transform: uppercase;
+  opacity: 0;
+  transform-origin: 50% 50%;
+  transform: rotate(-5deg) scale(5);
+  transition: all 0.3s cubic-bezier(0.6, 0.04, 0.98, 0.335);
+}
+
+.loaded .stamp:after {
+  opacity: .75;
+  transform: rotate(0deg) scale(1);
+  z-index: -1;
+}
