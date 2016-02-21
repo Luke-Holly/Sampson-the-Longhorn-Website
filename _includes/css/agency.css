@@ -944,12 +944,11 @@ header {
   left:20px;
   height:200px;
   width:200px;
-  background-image: url("http://luke-holly.github.io/Sampson-the-Longhorn-Website/img/USDA-badge.png");
 }
 .stamp:after {
   border: solid 0.2em #d00;
   color: #d00;
-  background-image: url("http://luke-holly.github.io/Sampson-the-Longhorn-Website/img/USDA-badge.png");
+  content: url("http://luke-holly.github.io/Sampson-the-Longhorn-Website/img/USDA-badge.png");
   font-size: 16px;
   font-weight: bold;
   line-height: 1;
