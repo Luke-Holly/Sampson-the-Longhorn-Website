@@ -942,6 +942,9 @@ header {
   position: absolute;
   top:20px;
   left:20px;
+  height:200px;
+  width:200px;
+  background-image: url("http://luke-holly.github.io/Sampson-the-Longhorn-Website/img/USDA-badge.png");
 }
 .stamp:after {
   border: solid 0.2em #d00;
