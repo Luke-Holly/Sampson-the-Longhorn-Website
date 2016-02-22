@@ -988,10 +988,21 @@ header {
 #muscle:after {
   color:#ce2525;
   font-family: 'strong';
-  font-size:150px;
+  font-size:120px;
   content:"Muscle";
-  line-height:150px;
+  line-height:120px;
   width:auto;
   text-align:center;
   text-transform:uppercase;
+  opacity: 0;
+  transform-origin: 50% 50%;
+  transform: rotate(-5deg) scale(5);
+  transition: all 0.3s cubic-bezier(0.6, 0.04, 0.98, 0.335);
+}
+}
+
+.loaded #muscle:after {
+  opacity: .75;
+  transform: rotate(0deg) scale(1);
+  z-index: 100;
 }
