@@ -45,28 +45,22 @@
    </div>
 
    <div class="left tiles">
-     <div id="blueimp-gallery-carousel" class="blueimp-gallery blueimp-gallery-carousel">
-       <div class="slides"></div>
-       <h3 class="title"></h3>
-       <a class="prev">‹</a>
-       <a class="next">›</a>
-       <a class="play-pause"></a>
-       <ol class="indicator"></ol>
-     </div>
+     <div id="blueimp-video-carousel" class="blueimp-gallery blueimp-gallery-controls blueimp-gallery-carousel">
+    <div class="slides"></div>
+    <h3 class="title"></h3>
+    <a class="prev">‹</a>
+    <a class="next">›</a>
+    <a class="play-pause"></a>
+</div>
      <script>
-blueimp.Gallery(
-    document.getElementById('links').getElementsByTagName('a'),
-    {
-        container: '#blueimp-gallery-carousel',
-        carousel: true
-    }
-);
 blueimp.Gallery(
     {
         title: 'Fruits',
         href: 'https://youtu.be/c34i-RV9y4o',
         type: 'text/html',
-        youtube: 'c34i-RV9y4o'
+        youtube: 'c34i-RV9y4o',
+        container: '#blueimp-video-carousel',
+        carousel: true
     }
 );
 </script>
