@@ -20,8 +20,11 @@
     <script src="{{ "http://luke-holly.github.io/Sampson-the-Longhorn-Website/js/slideOutPhotos.js"  }}"></script>
       <!--  <script src="{{ "/js/jquery.fixBackground.js" | prepend: site.baseurl }}"></script> -->
       <script>
-        setTimeout($(window).bind("load", function() {
+        setTimeout($(window).bind("load", setTimeout(function() {
   $('.stamp-container').addClass('loaded')
+});,750);
+$(window).bind("load", setTimeout(function() {
+$('#muscle').addClass('loaded')
 });,750);
 </script>
 <script src="js/blueimp-gallery.min.js"></script>
