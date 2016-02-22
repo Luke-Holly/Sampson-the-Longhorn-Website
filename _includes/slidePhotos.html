@@ -55,9 +55,14 @@
      </div>
      <script>
 blueimp.Gallery(
+    document.getElementById('links').getElementsByTagName('a'),
     {
         container: '#blueimp-gallery-carousel',
-        carousel: true,
+        carousel: true
+    }
+);
+blueimp.Gallery(
+    {
         title: 'Fruits',
         href: 'https://youtu.be/c34i-RV9y4o',
         type: 'text/html',
