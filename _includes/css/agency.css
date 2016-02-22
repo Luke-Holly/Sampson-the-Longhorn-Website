@@ -985,8 +985,13 @@ header {
   font-family: 'strong';
   src: url('http://luke-holly.github.io/Sampson-the-Longhorn-Website/Langdon.otf');
 }
-#muscle {
+#muscle:after {
   color:#ce2525;
   font-family: 'strong';
   font-size:150px;
+  content:"Muscle";
+  line-height:150px;
+  width:auto;
+  text-align:center;
+  text-transform:uppercase;
 }
