@@ -45,10 +45,28 @@
    </div>
 
    <div class="left tiles">
-      <img src="https://placeimg.com/100/100/people/color" />
-      <img src="https://placeimg.com/200/200/people/color" />
-      <img src="https://placeimg.com/300/300/people/color" />
-      <img src="https://placeimg.com/400/400/people/color" />
+     <div id="blueimp-gallery-carousel" class="blueimp-gallery blueimp-gallery-carousel">
+       <div class="slides"></div>
+       <h3 class="title"></h3>
+       <a class="prev">‹</a>
+       <a class="next">›</a>
+       <a class="play-pause"></a>
+       <ol class="indicator"></ol>
+     </div>
+     <script>
+blueimp.Gallery(
+    document.getElementById('videos').getElementsByTagName('a'),
+    {
+        container: '#blueimp-gallery-carousel',
+        carousel: true
+        title: 'Fruits',
+        href: 'https://youtu.be/c34i-RV9y4o',
+        type: 'text/html',
+        youtube: 'c34i-RV9y4o',
+    },
+    }
+);
+</script>
    </div>
 
 </div>
