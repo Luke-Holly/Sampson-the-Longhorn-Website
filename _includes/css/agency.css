@@ -944,7 +944,7 @@ header {
 .stamp-container {
   max-width: 500px;
   margin: auto;
-  height:auto;
+  height:200px;
   -webkit-backface-visibility: hidden;
 }
 .stamp {
@@ -953,7 +953,6 @@ header {
   left:20px;
   width:150px;
   height:150px;
-  height:auto;
 }
 @media all and (max-width:760px) {
   .stamp {
