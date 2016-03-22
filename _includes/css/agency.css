@@ -946,13 +946,10 @@ header {
   margin: auto;
   -webkit-backface-visibility: hidden;
 }
-@media all and (min-width:760px) {
 .stamp {
   position: absolute;
   top:40px;
   left:20px;
-  height:400px;
-  width:310px;
 }
 .stamp:after {
   color: #d00;
@@ -962,7 +959,6 @@ header {
   line-height: 1;
   opacity: 0;
   position: absolute;
-  width: 200px;
   text-align: center;
   padding: 7px 10px;
   margin: 0 auto;
@@ -980,6 +976,22 @@ header {
   transform: rotate(0deg) scale(1);
   z-index: 100;
 }
+@media all and (max-width:759px) {
+  .stamp {
+    width:60px;
+  }
+  .stamp:after {
+    width:60px;
+  }
+}
+@media all and (min-width:760px) {
+  .stamp {
+    height:400px;
+    width:310px;
+  }
+  .stamp::after {
+    width:200px;
+  }
 }
 @font-face {
   font-family: 'strong';
