@@ -968,5 +968,6 @@ header {
 .video-content {
   position:absolute;
   top: 50%;
-  transform: translateY(-50%);
+  height: 360px;
+  margin-top: -180px;
 }
