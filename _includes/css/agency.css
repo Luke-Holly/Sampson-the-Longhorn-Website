@@ -266,7 +266,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('https://raw.githubusercontent.com/Luke-Holly/Sampson-the-Longhorn-Website/gh-pages/img/header-bg.jpg');
+    background-image: url('https://raw.githubusercontent.com/Luke-Holly/Sampson-the-Longhorn-Website/gh-pages/img/header-bg.jpg') !important;
     background-position: left top;
     background-repeat: none;
     -webkit-background-size: cover;
