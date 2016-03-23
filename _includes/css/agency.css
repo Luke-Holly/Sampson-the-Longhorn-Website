@@ -958,14 +958,12 @@ header {
   width:auto;
   text-align:center;
 }
-.section {
-  background-color: #dedede;
-}
 .left {
   background-color:black !important;
   position:relative;
 }
 .video-content {
+  width:100%;
   position:absolute !important;
   top: 44% !important;
   height: 300px !important;
@@ -976,4 +974,9 @@ header {
   top: 44% !important;
   height: 300px !important;
   margin-top: -150px !important;
+}
+.blueimp-gallery-carousel {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
 }
