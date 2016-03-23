@@ -962,6 +962,9 @@ header {
   background-color:black !important;
   position:relative;
 }
+.right {
+  background-image:url('http://luke-holly.github.io/Sampson-the-Longhorn-Website/img/Sampson3.JPG');
+}
 .middle {
   height:100% !important;
 }
