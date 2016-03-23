@@ -986,7 +986,7 @@ header {
   font-family: "Alfa Slab One", serif !important;
   color:white;
   background-color:black;
-  font-size: 3em;
+  font-size: 26pt !important;
 }
 #wordDiv {
   color:#fec503;
@@ -999,7 +999,7 @@ header {
   font-family: "Alfa Slab One", serif !important;
   color:white;
   font-weight:700;
-  font-size: 3em;
+  font-size: 26pt !important;
 }
 #wordDiv1 {
   color:#fec503;
