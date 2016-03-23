@@ -33,7 +33,7 @@
           setTimeout(setBackground, 15500);
         -->
         <script>
-          var words = new Array('Grand Opening','Commercial','Parade', 'Print Ad', 'Photoshoot');
+          var words = new Array('Commercial','Parade', 'Print Ad', 'Photoshoot', 'TV Show');
           var i = 0;
           setInterval( function(){
             $( '#wordDiv' ).empty().append( words[ i ] );
@@ -42,6 +42,16 @@
             } else {
               i = 0;
             }
-          }, 5000 );
+          }, 2500 );
+          var words1 = new Array('Commercial','Parade', 'Print Ad', 'Photoshoot', 'TV Show');
+          var i = 0;
+          setInterval( function(){
+            $( '#wordDiv1' ).empty().append( words1[ i ] );
+            if( i < words.length ) {
+              i++;
+            } else {
+              i = 0;
+            }
+          }, 2500 );
 </script>
     </footer>

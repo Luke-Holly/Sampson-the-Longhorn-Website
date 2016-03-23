@@ -921,7 +921,7 @@ header {
   font-size:50px !important;
   text-shadow: 3px 3px 2px #212121;
   line-height:65px;
-  margin-top: -50px;
+  margin-top: -75px;
 }
 .intro-heading {
 }
@@ -986,8 +986,31 @@ header {
   font-family: "Alfa Slab One", serif !important;
   color:white;
   background-color:black;
-  font-size: 1.5em;
+  font-size: 3em;
 }
-#switchWords {
+#wordDiv {
   color:#fec503;
+}
+#bookHimFor1 {
+  height:65px;
+  width:100%;
+  margin-left:auto;
+  margin-right:auto;
+  font-family: "Alfa Slab One", serif !important;
+  color:white;
+  font-weight:700;
+  font-size: 3em;
+}
+#wordDiv1 {
+  color:#fec503;
+}
+@media all and (max-width:759px) {
+  #bookHimFor1 {
+    display:none;
+  }
+}
+@media all and (min-width:760px) {
+  #bookHimFor {
+    display:none;
+  }
 }
