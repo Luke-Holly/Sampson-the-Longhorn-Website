@@ -963,4 +963,10 @@ header {
 }
 .left {
   background-color:black !important;
+  position:relative;
+}
+.video-content {
+  position:absolute;
+  top: 50%;
+  transform: translateY(-50%);
 }
