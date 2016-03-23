@@ -23,7 +23,7 @@
                 </div>
             </div>
         </div>
-        <script>
+        <!-- script>
         var setBackground = function(){
           $("header").css("background", "url('http://luke-holly.github.io/Sampson-the-Longhorn-Website/img/header-bg.jpg') no-repeat 60% 35% fixed");
           $("header").css("background-size", "cover");
@@ -31,17 +31,18 @@
           instance.destroy();
           };
           setTimeout(setBackground, 15500);
-        function() {
+        -->
+        <script>
           var words = new Array('Grand Opening','Commercial','Parade', 'Print Ad', 'Photoshoot');
           var i = 0;
-setInterval( function(){
-    $( '#wordDiv' ).empty().append( words[ i ] );
-    if( i < words.length ) {
-        i++;
-    } else {
-        i = 0;
-    }
-}, 5000 );
+          setInterval( function(){
+            $( '#wordDiv' ).empty().append( words[ i ] );
+            if( i < words.length ) {
+              i++;
+            } else {
+              i = 0;
+            }
+          }, 5000 );
 
         }
 </script>
