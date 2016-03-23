@@ -999,10 +999,10 @@ header {
   font-family: "Alfa Slab One", serif !important;
   color:white;
   font-weight:700;
-  font-size: 26pt !important;
+  margin-top: -35px;
 }
 #bookHimFor1 > p {
-  font-size:30px !important;
+  font-size:35px !important;
 }
 #wordDiv1 {
   color:#fec503;

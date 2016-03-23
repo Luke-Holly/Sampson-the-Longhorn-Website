@@ -43,14 +43,13 @@
               i = 0;
             }
           }, 2500 );
-          var words1 = new Array('Commercial', 'Parade', 'Print Ad', 'Photoshoot', 'TV Show');
-          var i = 0;
+          var j = 0;
           setInterval( function(){
-            $( '#wordDiv1' ).empty().append( words1[ i ] );
-            if( i < words1.length ) {
-              i++;
+            $( '#wordDiv1' ).empty().append( words1[ j ] );
+            if( j < words.length ) {
+              j++;
             } else {
-              i = 0;
+              j = 0;
             }
           }, 2500 );
 </script>
