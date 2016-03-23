@@ -966,8 +966,14 @@ header {
   position:relative;
 }
 .video-content {
-  position:absolute;
-  top: 50%;
-  height: 360px;
-  margin-top: -180px;
+  position:absolute !important;
+  top: 44% !important;
+  height: 300px !important;
+  margin-top: -150px !important;
+}
+#widget4 {
+  position:absolute !important;
+  top: 44% !important;
+  height: 300px !important;
+  margin-top: -150px !important;
 }
