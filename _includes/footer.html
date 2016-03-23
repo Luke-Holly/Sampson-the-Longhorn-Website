@@ -31,5 +31,18 @@
           instance.destroy();
           };
           setTimeout(setBackground, 15500);
+        function() {
+          var words = new Array('Grand Opening','Commercial','Parade', 'Print Ad', 'Photoshoot');
+          var i = 0;
+setInterval( function(){
+    $( '#wordDiv' ).empty().append( words[ i ] );
+    if( i < words.length ) {
+        i++;
+    } else {
+        i = 0;
+    }
+}, 5000 );
+
+        }
 </script>
     </footer>

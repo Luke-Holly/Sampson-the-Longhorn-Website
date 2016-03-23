@@ -921,6 +921,7 @@ header {
   font-size:50px !important;
   text-shadow: 3px 3px 2px #212121;
   line-height:65px;
+  margin-top: -50px;
 }
 .intro-heading {
 }
@@ -974,6 +975,18 @@ header {
   transform: translateY(-50%) !important;
 }
 .middle > img {
-  height:100%;
+  height:100% !important;
   width:100%;
+}
+#bookHimFor {
+  height:65px;
+  width:100%;
+  margin-left:auto;
+  margin-right:auto;
+  font-family: "Alfa Slab One", serif !important;
+  color:white;
+  background-color:black;
+}
+#switchWords {
+  color:#fec503;
 }
