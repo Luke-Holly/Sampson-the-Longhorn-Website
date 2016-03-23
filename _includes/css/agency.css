@@ -961,3 +961,6 @@ header {
 .section {
   background-color: #dedede;
 }
+.left {
+  background-color:black !important;
+}
